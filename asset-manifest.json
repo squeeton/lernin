@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lernin/static/css/main.92b9fa98.chunk.css",
+    "main.js": "/lernin/static/js/main.e6a063b0.chunk.js",
+    "main.js.map": "/lernin/static/js/main.e6a063b0.chunk.js.map",
+    "runtime-main.js": "/lernin/static/js/runtime-main.97f3e18b.js",
+    "runtime-main.js.map": "/lernin/static/js/runtime-main.97f3e18b.js.map",
+    "static/js/2.7a4f9669.chunk.js": "/lernin/static/js/2.7a4f9669.chunk.js",
+    "static/js/2.7a4f9669.chunk.js.map": "/lernin/static/js/2.7a4f9669.chunk.js.map",
+    "index.html": "/lernin/index.html",
+    "precache-manifest.aaabc39584888cc3a588194ab156d63a.js": "/lernin/precache-manifest.aaabc39584888cc3a588194ab156d63a.js",
+    "service-worker.js": "/lernin/service-worker.js",
+    "static/css/main.92b9fa98.chunk.css.map": "/lernin/static/css/main.92b9fa98.chunk.css.map",
+    "static/js/2.7a4f9669.chunk.js.LICENSE.txt": "/lernin/static/js/2.7a4f9669.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lernin/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97f3e18b.js",
+    "static/js/2.7a4f9669.chunk.js",
+    "static/css/main.92b9fa98.chunk.css",
+    "static/js/main.e6a063b0.chunk.js"
+  ]
+}
